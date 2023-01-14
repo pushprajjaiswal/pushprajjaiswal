@@ -12,9 +12,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on NFT Marketplace website
-
 - 🌱 I’m currently learning Blockchain development
 
 - 👯 I’m looking to collaborate on Projects 
