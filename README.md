@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on Projects 
 
-- 💬 Talk to me about C/C++, Python, JavaScript, Open Source
+- 💬 Talk to me about C/C++,Java, Python, JavaScript, SpringBoot, React, Node, SQL, Open Source
  <br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/pushpraj-jaiswal'> <img width = '32px' align= 'stretch' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
