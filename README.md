@@ -51,8 +51,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pushprajjaiswal&show_icons=true&line_height=27&count_private=true&theme=radical" alt="pushpraj's GitHub Stats" />
 </a>
 
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
