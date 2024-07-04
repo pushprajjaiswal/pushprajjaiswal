@@ -26,7 +26,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Node and Java Backend Projects
+- 🔭 I’m currently working on  Blockchain Projects
   
 - 👯 I’m looking to collaborate on Backend Projects 
 
@@ -56,10 +56,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
-<br>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
-<p align="left">
-    <a href = 'https://www.linkedin.com/in/pushprajjaiswal' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = '40px' /></a> 
-    <a href = 'https://twitter.com/pushprajjaisw12' target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width = '40px' /></a> 
-</p>
