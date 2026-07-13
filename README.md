@@ -26,7 +26,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on  Blockchain Projects
+- 🔭 I’m currently working on  Edusync Projects
   
 - 👯 I’m looking to collaborate on Backend Projects 
 
